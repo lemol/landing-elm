@@ -1,0 +1,20 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lemol/landing",
+  "author": "Leza Lutonda (lemol) <lemol-c@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "parcel native/index.html",
+    "build": "parcel build native/index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.1.5",
+    "node-elm-compiler": "^5.0.5"
+  }
+}
