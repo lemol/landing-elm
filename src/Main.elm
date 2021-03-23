@@ -43,7 +43,7 @@ view =
                 , label = Icons.linkedinOutlined [ Icon.width 24 ]
                 }
             , newTabLink [ mouseOver [ Font.color <| rgb 0 0 1 ] ]
-                { url = "mailto://lemol@lemol.ao"
+                { url = "mailto://hi@lemol.ao"
                 , label = Icons.mailOutlined [ Icon.width 24 ]
                 }
             , newTabLink [ mouseOver [ Font.color <| rgb 0 0 1 ] ]
